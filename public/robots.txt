@@ -1,0 +1,5 @@
+# robots.txt for GoFetch
+User-agent: *
+Allow: /
+
+Sitemap: https://gofetch.dev/sitemap.xml
